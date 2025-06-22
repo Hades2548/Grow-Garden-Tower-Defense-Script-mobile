@@ -9,7 +9,7 @@ local isMobile = UserInputService.TouchEnabled
 
 -- Liste der gültigen Schlüssel
 local ValidKeys = {
-    "LACAZETTE-ZE867MCZYi",
+    "LACAZETTE",
     "Premium",
     "IloveN1!"
 }
